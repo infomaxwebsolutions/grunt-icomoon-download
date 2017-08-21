@@ -11,7 +11,7 @@ let urlWithOutFile = function (link) {
   // remove the last part
   path.pop();
   // rebuild the url
-  return parsedUrl.protocol + '//' + parsedUrl.hostname + path.join('/') + '/';
+  return parsedUrl.protocol + '//' + parsedUrl.hostname + path.join('/');
 };
 
 module.exports = function (grunt) {
