@@ -76,6 +76,3 @@ grunt.initConfig({
   },
 });
 ```
-
-## License
-Copyright (c) 2017 Florian Müller. Licensed under the MIT license.
