@@ -1,0 +1,18 @@
+{
+  "name": "grunt-icomoon-download",
+  "description": "Grunt task for automated download and generation of icomoon files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Florian Müller",
+    "email": "mueller@infomax-it.de"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "download": "^6.2.5",
+    "grunt": "^1.0.1",
+    "temporary": "0.0.8"
+  }
+}
