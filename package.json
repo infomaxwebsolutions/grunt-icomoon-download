@@ -2,17 +2,21 @@
   "name": "grunt-icomoon-download",
   "description": "Grunt task for automated download and generation of icomoon files.",
   "version": "1.0.0",
+  "repository": "https://github.com/infomaxwebsolutions/grunt-icomoon-download",
+  "license": "Apache License 2.0",
   "author": {
     "name": "Florian Müller",
-    "email": "mueller@infomax-it.de"
+    "email": "mueller@infomax-it.de",
+    "url": "http://www.infomax-online.de"
   },
-  "dependencies": {},
+  "dependencies": {
+    "download": "^6.2.5",
+    "temporary": "0.0.8"
+  },
   "engines": {
     "node": ">=4.0.0"
   },
   "devDependencies": {
-    "download": "^6.2.5",
-    "grunt": "^1.0.1",
-    "temporary": "0.0.8"
+    "grunt": "^1.0.1"
   }
 }
