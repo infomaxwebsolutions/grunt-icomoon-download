@@ -1,7 +1,7 @@
 {
   "name": "grunt-icomoon-download",
   "description": "Grunt task for automated download and generation of icomoon files.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/infomaxwebsolutions/grunt-icomoon-download",
   "license": "Apache License 2.0",
   "author": {
